@@ -1,0 +1,10 @@
+/Users/walker/Source/Patreon.Sort/source/rust/target/release/deps/libowned_ttf_parser-c2f83dae6d85f1e8.rmeta: /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/convert.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/owned.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/preparse.rs
+
+/Users/walker/Source/Patreon.Sort/source/rust/target/release/deps/libowned_ttf_parser-c2f83dae6d85f1e8.rlib: /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/convert.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/owned.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/preparse.rs
+
+/Users/walker/Source/Patreon.Sort/source/rust/target/release/deps/owned_ttf_parser-c2f83dae6d85f1e8.d: /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/lib.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/convert.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/owned.rs /Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/preparse.rs
+
+/Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/lib.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/convert.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/owned.rs:
+/Users/walker/.cargo/registry/src/index.crates.io-6f17d22bba15001f/owned_ttf_parser-0.25.0/src/preparse.rs:
